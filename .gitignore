@@ -1,0 +1,15 @@
+# class sandbox internal files
+__class_runtime_loader.js
+__class_devtools.tsx
+__class_jsx-dev-runtime.ts
+.snowflake/
+.class-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
